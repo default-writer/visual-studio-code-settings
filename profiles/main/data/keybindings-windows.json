@@ -1,0 +1,25 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+alt+v",
+        "command": "editor.action.toggleColumnSelection"
+    },
+    {
+        "key": "alt+v",
+        "command": "-editor.action.toggleColumnSelection"
+    },
+    {
+        "key": "ctrl+shift+d ctrl+shift+a",
+        "command": "disasexpl.show"
+    },
+    {
+        "key": "ctrl+alt+t",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    }
+]

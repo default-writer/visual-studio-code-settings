@@ -1,0 +1,151 @@
+{
+    "codestream.email": "funcelot@outlook.com",
+    "projectManager.git.baseFolders": [
+        "/workspaces/"
+    ],
+    "git.confirmSync": false,
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "twitch.channel": "funcelot",
+    "twitch.username": "funcelot",
+    "python.languageServer": "Pylance",
+    "git.enableSmartCommit": true,
+    "files.autoGuessEncoding": true,
+    "sync.gist": "vscode-settings",
+    "editor.fontFamily": "Ubuntu Mono, Source Code Pro, Cascadia Code Light, Anonymous Pro, Vin Mono Pro Light, Fira Code, ScopeOne, Consolas, 'Courier New', monospace",
+    "explorer.confirmDelete": false,
+    "markdownlint.customRules": [
+        "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
+    ],
+    "markdownlint.config": {
+        "MD028": false,
+        "MD025": {
+            "front_matter_title": ""
+        }
+    },
+    "liveshare.allowGuestDebugControl": true,
+    "workbench.list.multiSelectModifier": "alt",
+    "cmake.configureOnOpen": true,
+    "cSpell.allowedSchemas": [],
+    "jupyter.askForKernelRestart": false,
+    "jupyter.interactiveWindowMode": "perFile",
+    "C_Cpp.workspaceSymbols": "All",
+    "yaml.schemas": {
+        "file:///toc.schema.json": "/toc\\.yml/i"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.useTabStops": false,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "normal",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "todo-tree.tree.showScanModeButton": false,
+    "git.autofetch": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\Admin\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.kubectl-path.windows": "C:\\Users\\Admin\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\Admin\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "debug.disassemblyView.showSourceCode": false,
+    "coverage-gutters.showLineCoverage": true,
+    "coverage-gutters.showRulerCoverage": true,
+    "coverage-gutters.lcovname": "",
+    "coverage-gutters.coverageBaseDir": ".",
+    "files.watcherInclude": [
+        "."
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "mssql.connections": [],
+    "coverage-gutters.coverageReportFileName": "./bin/coverage/**/index.html",
+    "platformSettings.autoLoad": true,
+    "platformSettings.condition": "os.release()",
+    "testExplorer.addToEditorContextMenu": true,
+    "sonarlint.ls.javaHome": "C:\\\\Program Files\\\\Java\\\\jdk-18",
+    "security.workspace.trust.untrustedFiles": "open",
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "sonarlint.rules": {
+        "python:S125": {
+            "level": "off"
+        },
+        "python:S116": {
+            "level": "off"
+        },
+        "python:S1192": {
+            "level": "off"
+        }
+    },
+    "hungryDelete.followAbovelineIndent": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.smoothScrolling": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "terminal.integrated.fontFamily": "Ubuntu Mono, Roboto Mono, Source Code Pro, Cascadia Code Light, Anonymous Pro, Vin Mono Pro Light, Fira Code, ScopeOne, Consolas, 'Courier New', monospace",
+    "editor.codeLensFontFamily": "Ubuntu Mono, Source Code Pro, Cascadia Code Light, Anonymous Pro, Vin Mono Pro Light, Fira Code, ScopeOne, Consolas, 'Courier New', monospace",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "powershell.powerShellDefaultVersion": "Windows PowerShell (x64)",
+    "java.jdt.ls.java.home": "C:\\\\Program Files\\\\Java\\\\jdk-18",
+    "debug.javascript.defaultRuntimeExecutable": {
+
+        "pwa-node": "node"
+    },
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Admin\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\Admin\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Admin\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Admin\\Oracle\\network\\admin",
+    "sonarlint.connectedMode.connections.sonarqube": [
+        {
+            "serverUrl": "http://localhost:9000"
+        }
+    ],
+    "diffEditor.maxComputationTime": 0,
+    "editor.largeFileOptimizations": false,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "gitlens.views.searchAndCompare.files.layout": "tree",
+    "diffEditor.codeLens": true,
+    "git-graph.commitDetailsView.location": "Docked to Bottom",
+    "terminal.integrated.shellIntegration.history": 1000,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "explorer.sortOrder": "type",
+    "breadcrumbs.icons": false,
+    "window.openFilesInNewWindow": "default",
+    "workbench.startupEditor": "none",
+    "pythonTestExplorer.testFramework": "pytest",
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "coverage": "pytest --cov-report term --cov-report xml:coverage.xml --cov=src"
+            }
+        ]
+    },
+    "cofc.commands": [
+
+    ],
+    "private-extension-manager.directories": [
+        ".extensions"
+    ],
+    "private-extension-manager.autoUpdate": true
+}
