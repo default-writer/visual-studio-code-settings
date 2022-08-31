@@ -121,9 +121,6 @@
     ],
     "diffEditor.maxComputationTime": 0,
     "editor.largeFileOptimizations": false,
-    "[xml]": {
-        "editor.defaultFormatter": "redhat.vscode-xml"
-    },
     "gitlens.views.searchAndCompare.files.layout": "tree",
     "diffEditor.codeLens": true,
     "git-graph.commitDetailsView.location": "Docked to Bottom",

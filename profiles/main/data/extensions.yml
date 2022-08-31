@@ -7,10 +7,10 @@ disabled:
     uuid: cfff128c-7605-4902-aeb9-3d65b3011431
   - id: brandonfowler.exe-runner
     uuid: 23fb543c-ad76-4b49-94b8-3e164d8b29c0
-  - id: christian-kohler.path-intellisense
-    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: CodeSandbox-io.codesandbox-projects
     uuid: 2d8a982d-d254-418c-a19e-80efa6eb735f
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: craigthomas.supersharp
     uuid: b77fdb35-f82d-4854-8205-a2783978a809
   - id: Dart-Code.dart-code
@@ -31,10 +31,10 @@ disabled:
     uuid: f6657ac9-7ea5-41a8-82b2-8a9c4be240e5
   - id: fabiospampinato.vscode-debug-launcher
     uuid: 67220dfe-b01a-4353-bcc4-4e84efbafa51
-  - id: firefox-devtools.vscode-firefox-debug
-    uuid: c5f4d87f-a524-462c-ac01-923eb19cf3e9
   - id: formulahendry.docker-explorer
     uuid: 96c69be9-5b09-4a18-8c82-4d30ab145017
+  - id: firefox-devtools.vscode-firefox-debug
+    uuid: c5f4d87f-a524-462c-ac01-923eb19cf3e9
   - id: formulahendry.docker-extension-pack
     uuid: 0f8e11dc-56b3-4ad5-9e66-ea9d1f0a117a
   - id: formulahendry.dotnet-test-explorer
@@ -47,16 +47,16 @@ disabled:
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: hbenl.vscode-test-explorer-liveshare
     uuid: 733c7fa7-f39a-44d2-a5d8-b1e7d413306e
-  - id: HookyQR.beautify
-    uuid: 697255a9-3f36-44c8-b084-d3b91edfb23a
   - id: henriiik.vscode-sort
     uuid: 8e355385-0d4d-4908-aca4-c36da7282a6d
+  - id: HookyQR.beautify
+    uuid: 697255a9-3f36-44c8-b084-d3b91edfb23a
   - id: Ionide.Ionide-FAKE
     uuid: 4528c74a-be1c-4ca5-8e82-a594d84b24be
-  - id: Ionide.Ionide-Paket
-    uuid: c558c851-8f53-4cb2-a105-bdd5dd6eead8
   - id: JacquesLucke.gcov-viewer
     uuid: 4caa35fa-5cf2-4bf5-9df4-8560994a7dfb
+  - id: Ionide.Ionide-Paket
+    uuid: c558c851-8f53-4cb2-a105-bdd5dd6eead8
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jorgeserrano.vscode-csharp-snippets
@@ -75,10 +75,10 @@ disabled:
     uuid: 2ed5adbe-c4e1-4227-8e41-31e2095b30e3
   - id: ms-azuretools.vscode-azureresourcegroups
     uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
-  - id: ms-kubernetes-tools.vscode-kubernetes-tools
-    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
   - id: ms-mssql.data-workspace-vscode
     uuid: 88e082b7-d289-4c59-bde4-4c61e0280428
+  - id: ms-kubernetes-tools.vscode-kubernetes-tools
+    uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
   - id: ms-mssql.mssql
     uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
   - id: ms-vscode.azure-account
@@ -99,12 +99,12 @@ disabled:
     uuid: e05d98bf-3735-4c1e-9fae-86ef0a52e19f
   - id: rangav.vscode-thunder-client
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
-  - id: redhat.vscode-yaml
-    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: SandAngel.jsfiddle-pro
     uuid: ccca4a4f-a0e1-4971-84dd-e6dde8ac65db
   - id: serkonda7.vscode-vba
     uuid: 2f8ca9cf-2bb4-4ca7-8872-911dc6bbbd0b
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: teabyii.ayu
